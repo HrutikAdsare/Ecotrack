@@ -1,0 +1,8 @@
+cardboard
+e-waste
+glass
+medical
+metal
+organic
+paper
+plastic
