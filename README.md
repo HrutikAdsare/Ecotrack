@@ -60,7 +60,7 @@ EcoTrack/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/EcoTrack.git
+git clone https://github.com/HrutikAdsare/EcoTrack.git
 cd EcoTrack
 ```
 
@@ -82,14 +82,7 @@ flutter run
 
 ---
 
-## 📷 YOLOv8 Model Integration
-
-- The waste classifier model (`best_float32.tflite`) is used for real-time or static image predictions.
-- You can find the model and required assets inside the `backend/` directory.
-
----
-
 ## 👨‍💻 Developer
 
-Built with ❤️ by [Hrutik Adsare](https://huggingface.co/Hrutik-Adsare)
+Built by [Hrutik Adsare](https://huggingface.co/Hrutik-Adsare)
 
