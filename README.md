@@ -40,7 +40,7 @@
 EcoTrack/
 ├── assets/
 │   └── ... (icons, sample images)
-├── backend/ 👈 Download this from Hugging Face
+├── backend/ 👈 You may also Download this from Hugging Face
 │   ├── runs/
 │   ├── detect/
 │   ├── train3/
